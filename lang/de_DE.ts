@@ -3251,11 +3251,7 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="876"/>
         <location filename="../src/mainwindow.cpp" line="880"/>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1193"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1194"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>File open</source>
         <translation>Datei öffnen</translation>
     </message>
@@ -3301,96 +3297,54 @@
         <translation>PNG Dateien (*.png)</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1166"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1167"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Open File</source>
         <translation>Datei öffnen</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1166"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1167"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Python script (*.py)</source>
         <translation>Python Skript (*.py)</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1193"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1194"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>File &apos;%1&apos; doesn&apos;t exists.</source>
         <translation>Die Datei &apos;%1&apos; existiert nicht.</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1254"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1255"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Problem Type: %1</source>
         <translation>Problemtyp: %1</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1255"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1256"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Physic Field: %1</source>
         <translation>Physikalisches Feld: %1</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1256"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1257"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Analysis type: %1</source>
         <translation>Analyse-Typ: %1</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1350"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1351"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Export mesh file</source>
         <translation>Datei des Netzes exportieren</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1350"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1351"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Mesh files (*.mesh)</source>
         <translation>Dateien des Netzes (*.mesh)</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1397"/>
         <location filename="../src/mainwindow.cpp" line="1429"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1398"/>
-        <location filename="../src/mainwindow.cpp" line="1430"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Export vtk file</source>
         <translation>VTK Dateien exportieren</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1397"/>
         <location filename="../src/mainwindow.cpp" line="1429"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1398"/>
-        <location filename="../src/mainwindow.cpp" line="1430"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>VTK files (*.vtk)</source>
         <translation>VTK Dateien (*.vtk)</translation>
     </message>
@@ -3643,7 +3597,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/postprocessorview.cpp" line="641"/>
         <source>Terminate on different material</source>
         <translation type="unfinished"></translation>
@@ -3719,12 +3672,6 @@
         <translation type="obsolete">Konstante:</translation>
     </message>
     <message>
-=======
-        <source>Constant:</source>
-        <translation type="obsolete">Konstante:</translation>
-    </message>
-    <message>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/postprocessorview.cpp" line="691"/>
         <source>Initial particle position</source>
         <translation type="unfinished"></translation>
@@ -3740,14 +3687,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/postprocessorview.cpp" line="726"/>
         <source>Particles radius:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-=======
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/postprocessorview.cpp" line="477"/>
         <location filename="../src/postprocessorview.cpp" line="592"/>
         <source>Jet</source>
@@ -3913,85 +3857,6 @@
         <translation>Legenden der Zehnerpotenz darstellen</translation>
     </message>
     <message>
-<<<<<<< HEAD
-=======
-        <location filename="../src/postprocessorview.cpp" line="641"/>
-        <source>Terminate on different material</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="646"/>
-        <source>Line color is controlled by velocity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="647"/>
-        <source>Show points</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="662"/>
-        <location filename="../src/postprocessorview.cpp" line="672"/>
-        <source>Equation:</source>
-        <translation type="unfinished">Gleichung:</translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="664"/>
-        <source>Charge (C):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="667"/>
-        <source>Lorentz Force</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="674"/>
-        <source>Density (kg/m&lt;sup&gt;3&lt;/sup&gt;):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="676"/>
-        <source>Reference area (m&lt;sup&gt;2&lt;/sup&gt;):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="678"/>
-        <source>Coefficient (-):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="681"/>
-        <source>Drag force</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="711"/>
-        <source>Maximum relative error (%):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="713"/>
-        <source>Maximum steps:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="722"/>
-        <source>Equations:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="726"/>
-        <source>Particles radius (m):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="728"/>
-        <source>Mass (kg):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/postprocessorview.cpp" line="745"/>
         <source>Workspace</source>
         <translation type="unfinished">Arbeitsfläche</translation>
@@ -4893,466 +4758,6 @@ Do you want to save your changes?</source>
 <context>
     <name>PythonEditorWidget</name>
     <message>
-<<<<<<< HEAD
-=======
-        <location filename="../src/progressdialog.cpp" line="1075"/>
-        <source>Processing solution mesh cache</source>
-        <translation>Bearbeitung der Daten fürs Netz</translation>
-    </message>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="1081"/>
-        <source>Processing countour view cache</source>
-        <translation>Bearbeitung der Daten für Kontur</translation>
-    </message>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="1089"/>
-        <source>Processing scalar view cache</source>
-        <translation>Bearbeitung der Daten für Skalarabbildung</translation>
-    </message>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="1095"/>
-        <source>Processing vector view cache</source>
-        <translation>Bearbeitung der Daten für Vektorabbildung</translation>
-    </message>
-</context>
-<context>
-    <name>ProgressItemSolve</name>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="970"/>
-        <source>Solver</source>
-        <translation>Rechengerät</translation>
-    </message>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="1010"/>
-        <source>Problem analysis: %1 (%2, %3)</source>
-        <translation>Problemanalyse: %1 (%2, %3)</translation>
-    </message>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="1015"/>
-        <source>Solver was started: %1 </source>
-        <translation>Lösung des Problems: %1</translation>
-    </message>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="1021"/>
-        <source>Problem was solved</source>
-        <translation>Das Problem war gelöst</translation>
-    </message>
-    <message>
-        <location filename="../src/progressdialog.cpp" line="1026"/>
-        <source>Problem was not solved</source>
-        <translation>Das Problem war nicht gelöst</translation>
-    </message>
-</context>
-<context>
-    <name>PythonBrowserView</name>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="22"/>
-        <source>Browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="38"/>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="38"/>
-        <source>Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="38"/>
-        <source>Value</source>
-        <translation type="unfinished">Wert</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="57"/>
-        <source>Copy name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="60"/>
-        <source>Copy value</source>
-        <translation type="unfinished">Wert kopieren</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="63"/>
-        <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Löschen</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="103"/>
-        <source>Variables</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="107"/>
-        <source>Other</source>
-        <translation type="unfinished">Andere</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="111"/>
-        <source>Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythonbrowser.cpp" line="115"/>
-        <source>Classes</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PythonEditorDialog</name>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="349"/>
-        <source>&amp;New</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="353"/>
-        <source>&amp;Open...</source>
-        <translation type="unfinished">&amp;Öffnen...</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="357"/>
-        <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Speichern</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="361"/>
-        <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="365"/>
-        <source>Save console output as...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="371"/>
-        <source>&amp;Close</source>
-        <translation type="unfinished">S&amp;chließen</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="375"/>
-        <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="379"/>
-        <source>&amp;Undo</source>
-        <translation type="unfinished">&amp;Zurück</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="382"/>
-        <source>&amp;Redo</source>
-        <translation type="unfinished">Noch&amp;mals</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="385"/>
-        <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="389"/>
-        <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="393"/>
-        <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="396"/>
-        <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="400"/>
-        <source>Find &amp;next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="404"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="408"/>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="412"/>
-        <source>Indent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="413"/>
-        <source>Unindent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="415"/>
-        <source>Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="417"/>
-        <source>Uncomment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="418"/>
-        <source>Ctrl+U</source>
-        <translation type="unfinished">Strg+U</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="420"/>
-        <source>Goto line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="421"/>
-        <source>Alt+G</source>
-        <translation type="unfinished">Alt+G</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="423"/>
-        <source>&amp;Run Python script</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="424"/>
-        <source>Ctrl+R</source>
-        <translation type="unfinished">Strg+R</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="426"/>
-        <source>Replace tabs with spaces</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="429"/>
-        <source>&amp;Check Python script (PyLint)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="431"/>
-        <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="433"/>
-        <source>PyFlakes enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="438"/>
-        <source>PyLint enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="443"/>
-        <source>Print stacktrace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="448"/>
-        <source>User module deleter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="453"/>
-        <source>E&amp;xit</source>
-        <translation type="unfinished">&amp;Beenden</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="454"/>
-        <source>Ctrl+Q</source>
-        <translation type="unfinished">Strg+Q</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="455"/>
-        <source>Exit editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="458"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="528"/>
-        <source>&amp;Help</source>
-        <translation type="unfinished">&amp;Hilfe</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="462"/>
-        <source>&amp;Keyword List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="466"/>
-        <source>About &amp;PythonLab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="467"/>
-        <source>Show the application&apos;s About box</source>
-        <translation type="unfinished">Informationen über Agros2D zeigen</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="471"/>
-        <source>About &amp;Qt</source>
-        <translation type="unfinished">Über &amp;Qt</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="472"/>
-        <source>Show the Qt library&apos;s About box</source>
-        <translation type="unfinished">Informationen über Qt zeigen</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="479"/>
-        <source>&amp;Recent files</source>
-        <translation type="unfinished">&amp;Letzte Dateien</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="481"/>
-        <source>&amp;File</source>
-        <translation type="unfinished">&amp;Datei</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="495"/>
-        <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="515"/>
-        <source>&amp;Tools</source>
-        <translation type="unfinished">&amp;Instrumente</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="521"/>
-        <source>&amp;Options</source>
-        <translation type="unfinished">&amp;Möglichkeiten</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="538"/>
-        <source>File</source>
-        <translation type="unfinished">Datei</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="548"/>
-        <source>Edit</source>
-        <translation type="unfinished">Editieren</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="561"/>
-        <source>Tools</source>
-        <translation type="unfinished">Instrumente</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="580"/>
-        <source>Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="586"/>
-        <source>Working directory: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="597"/>
-        <source>Add new document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="641"/>
-        <source>File browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="664"/>
-        <source>Ready</source>
-        <translation type="unfinished">Vorbereitet</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="797"/>
-        <source>Select directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="804"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="1023"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="1100"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="1121"/>
-        <source>Untitled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="817"/>
-        <source>Open File</source>
-        <translation type="unfinished">Datei öffnen</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="817"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="875"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="911"/>
-        <source>Python files (*.py)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="830"/>
-        <source>Information</source>
-        <translation type="unfinished">Information</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="830"/>
-        <source>Script is already opened.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="875"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="911"/>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="928"/>
-        <source>Save file</source>
-        <translation type="unfinished">Daten speichern</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="897"/>
-        <source>File &apos;%1&apos; cannot be saved.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="928"/>
-        <source>Html files (*.html)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="957"/>
-        <source>Print Document</source>
-        <translation type="unfinished">Dokument ausdrücken</translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="1033"/>
-        <source>Application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="1033"/>
-        <source>File &apos;%1&apos; has been modified.
-Do you want to save your changes?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="1106"/>
-        <source>Python Lab - %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/pythonlab/pythoneditor.cpp" line="1114"/>
-        <source>Line: %1, Col: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PythonEditorWidget</name>
-    <message>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/pythonlab/pythoneditor.cpp" line="138"/>
         <location filename="../src/pythonlab/pythoneditor.cpp" line="183"/>
         <source>Convention</source>
@@ -6779,74 +6184,42 @@ Do you want to save your changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="326"/>
-=======
-        <location filename="../src/util.h" line="330"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Information</source>
         <translation type="unfinished">Information</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="329"/>
-=======
-        <location filename="../src/util.h" line="333"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="332"/>
-=======
-        <location filename="../src/util.h" line="336"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Critical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="725"/>
-=======
-        <location filename="../src/util.h" line="729"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>H1 norm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="727"/>
-=======
-        <location filename="../src/util.h" line="731"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>L2 norm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="729"/>
-=======
-        <location filename="../src/util.h" line="733"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>H1 seminorm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="731"/>
-=======
-        <location filename="../src/util.h" line="735"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Hdiv norm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="733"/>
-=======
-        <location filename="../src/util.h" line="737"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Hcurl norm</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8399,11 +7772,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="193"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3374"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3391"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Operate on nodes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8414,11 +7783,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="198"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3377"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3394"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Operate on edges</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8429,11 +7794,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="203"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3380"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3397"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Operate on labels</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8444,11 +7805,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="208"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3399"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3416"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Postprocessor</source>
         <translation>Postprozessor</translation>
     </message>
@@ -8523,107 +7880,60 @@ Do you want to save your changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="983"/>
-=======
-        <location filename="../src/sceneview.cpp" line="988"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>%1, %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3351"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3368"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Vel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3393"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3410"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3396"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3413"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Polynomial order</source>
         <translation>Zehnerpotenz des Polynoms</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3676"/>
         <location filename="../src/sceneview.cpp" line="3716"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3722"/>
-        <location filename="../src/sceneview.cpp" line="3762"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Undefined: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4074"/>
         <location filename="../src/sceneview.cpp" line="4123"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4120"/>
-        <location filename="../src/sceneview.cpp" line="4170"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Node</source>
         <translation>Knoten</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4074"/>
         <location filename="../src/sceneview.cpp" line="4123"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4120"/>
-        <location filename="../src/sceneview.cpp" line="4170"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Radial component must be greater then or equal to zero.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4376"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4423"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Node&lt;/h3&gt;Point: [%1; %2]&lt;br/&gt;Index: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4391"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4438"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Edge&lt;/h3&gt;Point: [%1; %2] - [%3; %4]&lt;br/&gt;Boundary Condition: %5&lt;br/&gt;Angle: %6 deg.&lt;br/&gt;Index: %7 %8</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4411"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4458"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Label&lt;/h3&gt;Point: [%1; %2]&lt;br/&gt;Material: %3&lt;br/&gt;Triangle area: %4 m&lt;sup&gt;2&lt;/sup&gt;&lt;br/&gt;Polynomial order: %5&lt;br/&gt;Index: %6 %7</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="5338"/>
-=======
-        <location filename="../src/sceneview.cpp" line="5385"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Image cannot be saved to the file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>

@@ -2063,11 +2063,8 @@
         <translation>Szybka zmiana</translation>
     </message>
     <message>
-<<<<<<< HEAD
+
         <location filename="../src/mainwindow.cpp" line="1350"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1351"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Export mesh file</source>
         <translation>Eksport pliku siatki</translation>
     </message>
@@ -2386,24 +2383,14 @@
         <translation>&amp;Dodaj</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1397"/>
         <location filename="../src/mainwindow.cpp" line="1429"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1398"/>
-        <location filename="../src/mainwindow.cpp" line="1430"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Export vtk file</source>
         <translation>Eksport pliku vtk</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1397"/>
         <location filename="../src/mainwindow.cpp" line="1429"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1398"/>
-        <location filename="../src/mainwindow.cpp" line="1430"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>VTK files (*.vtk)</source>
         <translation>Pliki VTK (*.vtk)</translation>
     </message>
@@ -2545,11 +2532,7 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="876"/>
         <location filename="../src/mainwindow.cpp" line="880"/>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1193"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1194"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>File open</source>
         <translation>Otwórz plik</translation>
     </message>
@@ -2595,65 +2578,37 @@
         <translation>PNG files (*.png)</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1166"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1167"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Open File</source>
         <translation>Otwórz plik</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1166"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1167"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
-        <source>Python script (*.py)</source>
+       <source>Python script (*.py)</source>
         <translation>Skrypt Python (*.py)</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1193"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1194"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>File &apos;%1&apos; doesn&apos;t exists.</source>
         <translation>Nie znaleziono pliku &apos;%1&apos;.</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1254"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1255"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Problem Type: %1</source>
         <translation>Typ problemu: %1</translation>
     </message>
     <message>
-<<<<<<< HEAD
-        <location filename="../src/mainwindow.cpp" line="1255"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1256"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
+       <location filename="../src/mainwindow.cpp" line="1255"/>
         <source>Physic Field: %1</source>
         <translation>Fizyka: %1</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1256"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1257"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Analysis type: %1</source>
         <translation>Typ analizy: %1</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1350"/>
-=======
-        <location filename="../src/mainwindow.cpp" line="1351"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Mesh files (*.mesh)</source>
         <translation>Plik siatki (*.mesh)</translation>
     </message>
@@ -3000,7 +2955,6 @@
         <translation>Włącz grawitacje</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/postprocessorview.cpp" line="641"/>
         <source>Terminate on different material</source>
         <translation type="unfinished"></translation>
@@ -3068,8 +3022,6 @@
     </message>
     <message>
         <location filename="../src/postprocessorview.cpp" line="728"/>
-=======
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Mass:</source>
         <translation type="obsolete">Masa:</translation>
     </message>
@@ -3097,10 +3049,7 @@
         <translation>Liczba cząsteczek:</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/postprocessorview.cpp" line="726"/>
-=======
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Particles radius:</source>
         <translation type="obsolete">Promień cząsteczki</translation>
     </message>
@@ -3156,85 +3105,6 @@
         <translation>Pokaż numery stopnia</translation>
     </message>
     <message>
-<<<<<<< HEAD
-=======
-        <location filename="../src/postprocessorview.cpp" line="641"/>
-        <source>Terminate on different material</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="646"/>
-        <source>Line color is controlled by velocity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="647"/>
-        <source>Show points</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="662"/>
-        <location filename="../src/postprocessorview.cpp" line="672"/>
-        <source>Equation:</source>
-        <translation type="unfinished">Równanie:</translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="664"/>
-        <source>Charge (C):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="667"/>
-        <source>Lorentz Force</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="674"/>
-        <source>Density (kg/m&lt;sup&gt;3&lt;/sup&gt;):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="676"/>
-        <source>Reference area (m&lt;sup&gt;2&lt;/sup&gt;):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="678"/>
-        <source>Coefficient (-):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="681"/>
-        <source>Drag force</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="711"/>
-        <source>Maximum relative error (%):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="713"/>
-        <source>Maximum steps:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="722"/>
-        <source>Equations:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="726"/>
-        <source>Particles radius (m):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/postprocessorview.cpp" line="728"/>
-        <source>Mass (kg):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/postprocessorview.cpp" line="745"/>
         <source>Workspace</source>
         <translation>Panel roboczy</translation>
@@ -5541,74 +5411,42 @@ Do you want to save your changes?</source>
         <translation>adaptacja typu hp</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="326"/>
-=======
-        <location filename="../src/util.h" line="330"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Information</source>
         <translation>Informacja</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="329"/>
-=======
-        <location filename="../src/util.h" line="333"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Warning</source>
         <translation>Ostrzeżenie</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="332"/>
-=======
-        <location filename="../src/util.h" line="336"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Critical</source>
         <translation>Błąd krytyczny</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="725"/>
-=======
-        <location filename="../src/util.h" line="729"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>H1 norm</source>
         <translation>Norma H1</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="727"/>
-=======
-        <location filename="../src/util.h" line="731"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>L2 norm</source>
         <translation>Norma L2</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="729"/>
-=======
-        <location filename="../src/util.h" line="733"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>H1 seminorm</source>
         <translation>Seminorma H1</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="731"/>
-=======
-        <location filename="../src/util.h" line="735"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Hdiv norm</source>
         <translation>Norma Hdiv</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/util.h" line="733"/>
-=======
-        <location filename="../src/util.h" line="737"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Hcurl norm</source>
         <translation>Norma Hcurl</translation>
     </message>
@@ -7158,11 +6996,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="193"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3374"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3391"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Operate on nodes</source>
         <translation>Operacje na węzłach</translation>
     </message>
@@ -7173,11 +7007,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="198"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3377"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3394"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Operate on edges</source>
         <translation>Operacje na krawędziach</translation>
     </message>
@@ -7188,11 +7018,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="203"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3380"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3397"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Operate on labels</source>
         <translation>Operacje na etykietach</translation>
     </message>
@@ -7203,11 +7029,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="208"/>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3399"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3416"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Postprocessor</source>
         <translation>Wyniki</translation>
     </message>
@@ -7291,98 +7113,55 @@ Do you want to save your changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3351"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3368"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Vel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3393"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3410"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3396"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3413"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Polynomial order</source>
         <translation>Stopień wielomianu</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3676"/>
         <location filename="../src/sceneview.cpp" line="3716"/>
-=======
-        <location filename="../src/sceneview.cpp" line="3722"/>
-        <location filename="../src/sceneview.cpp" line="3762"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Undefined: %1.</source>
         <translation>Nieznane: %1.</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4074"/>
         <location filename="../src/sceneview.cpp" line="4123"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4120"/>
-        <location filename="../src/sceneview.cpp" line="4170"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Node</source>
         <translation>Węzeł</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4074"/>
         <location filename="../src/sceneview.cpp" line="4123"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4120"/>
-        <location filename="../src/sceneview.cpp" line="4170"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Radial component must be greater then or equal to zero.</source>
         <translation>Współrzędna radialna musi być większa lub równa od zera.</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4376"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4423"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Node&lt;/h3&gt;Point: [%1; %2]&lt;br/&gt;Index: %3</source>
         <translation>&lt;h3&gt;Węzeł&lt;/h3&gt;Punkt: [%1; %2]&lt;br/&gt;Numer: %3</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4391"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4438"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Edge&lt;/h3&gt;Point: [%1; %2] - [%3; %4]&lt;br/&gt;Boundary Condition: %5&lt;br/&gt;Angle: %6 deg.&lt;br/&gt;Index: %7 %8</source>
         <translation>&lt;h3&gt;Krawędź&lt;/h3&gt;Punkty: [%1; %2] - [%3; %4]&lt;br/&gt;Warunek brzegowy: %5&lt;br/&gt;Kąt: %6 stopni.&lt;br/&gt;Numer: %7 %8</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4411"/>
-=======
-        <location filename="../src/sceneview.cpp" line="4458"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Label&lt;/h3&gt;Point: [%1; %2]&lt;br/&gt;Material: %3&lt;br/&gt;Triangle area: %4 m&lt;sup&gt;2&lt;/sup&gt;&lt;br/&gt;Polynomial order: %5&lt;br/&gt;Index: %6 %7</source>
         <translation>&lt;h3&gt;Etykieta&lt;/h3&gt;Punkt: [%1; %2]&lt;br/&gt;Materiał: %3&lt;br/&gt;Rozmiar elementu: %4 m&lt;sup&gt;2&lt;/sup&gt;&lt;br/&gt;Stopień wielomianu: %5&lt;br/&gt;Numer: %6 %7</translation>
     </message>
     <message>
-<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="5338"/>
-=======
-        <location filename="../src/sceneview.cpp" line="5385"/>
->>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Image cannot be saved to the file &apos;%1&apos;.</source>
         <translation>Obraz nie może być zapisany do pliku &apos;%1&apos;.</translation>
     </message>
