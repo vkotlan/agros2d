@@ -60,8 +60,13 @@ class SceneNode : public SceneBasic
 {
 public:
     Point point;
-
     SceneNode(const Point &point);
+
+    // geometry editor
+    bool isConnected() const { return connectedEdges.length() > 0; }
+    QList<SceneEdge *> connectedEdges;
+    bool isLyingOnEdges() const { return lyingEdges.length() > 0; }
+    QList<SceneEdge *> lyingEdges;
 
     double distance(const Point &point) const;
 
@@ -77,9 +82,17 @@ public:
     SceneNode *nodeStart;
     SceneNode *nodeEnd;
     double angle;
+
+    // needed by mesh generator
     int refineTowardsEdge;
 
     SceneEdge(SceneNode *nodeStart, SceneNode *nodeEnd, SceneBoundary *boundary, double angle, int refineTowardsEdge);
+
+    // geometry editor
+    bool isCrossed() const { return crossedEdges.length() > 0; }
+    QList<SceneEdge *> crossedEdges;
+    bool isLyingNode() const { return lyingNodes.length() > 0; }
+    QList<SceneNode *> lyingNodes;
 
     Point center() const;
     double radius() const;

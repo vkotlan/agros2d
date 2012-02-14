@@ -205,24 +205,24 @@
 <context>
     <name>CheckVersion</name>
     <message>
-        <location filename="../src/util.cpp" line="1605"/>
+        <location filename="../src/util.cpp" line="1734"/>
         <source>&lt;b&gt;New version available.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Actual version: %1&lt;br/&gt;New version: %2&lt;br/&gt;&lt;br/&gt;URL: &lt;a href=&quot;%3&quot;&gt;%3&lt;/a&gt;</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/util.cpp" line="1598"/>
-        <location filename="../src/util.cpp" line="1613"/>
-        <location filename="../src/util.cpp" line="1617"/>
+        <location filename="../src/util.cpp" line="1727"/>
+        <location filename="../src/util.cpp" line="1742"/>
+        <location filename="../src/util.cpp" line="1746"/>
         <source>New version</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/util.cpp" line="1598"/>
+        <location filename="../src/util.cpp" line="1727"/>
         <source>File is corrupted or network is disconnected.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/util.cpp" line="1617"/>
+        <location filename="../src/util.cpp" line="1746"/>
         <source>You are using actual version.</source>
         <translation></translation>
     </message>
@@ -739,23 +739,23 @@
 <context>
     <name>DSceneNode</name>
     <message>
-        <location filename="../src/scenebasic.cpp" line="288"/>
+        <location filename="../src/scenebasic.cpp" line="293"/>
         <source>Distance:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="289"/>
+        <location filename="../src/scenebasic.cpp" line="294"/>
         <source>Angle:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="322"/>
+        <location filename="../src/scenebasic.cpp" line="327"/>
         <source>Node already exists.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="250"/>
-        <location filename="../src/scenebasic.cpp" line="322"/>
+        <location filename="../src/scenebasic.cpp" line="255"/>
+        <location filename="../src/scenebasic.cpp" line="327"/>
         <source>Node</source>
         <translation></translation>
     </message>
@@ -1938,7 +1938,11 @@
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1350"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1351"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Export mesh file</source>
         <translation></translation>
     </message>
@@ -2331,34 +2335,60 @@
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1254"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1255"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Problem Type: %1</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1255"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1256"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Physic Field: %1</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1256"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1257"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Analysis type: %1</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1350"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1351"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Mesh files (*.mesh)</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1397"/>
         <location filename="../src/mainwindow.cpp" line="1429"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1398"/>
+        <location filename="../src/mainwindow.cpp" line="1430"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Export vtk file</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1397"/>
         <location filename="../src/mainwindow.cpp" line="1429"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1398"/>
+        <location filename="../src/mainwindow.cpp" line="1430"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>VTK files (*.vtk)</source>
         <translation></translation>
     </message>
@@ -2373,7 +2403,11 @@
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1166"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1167"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Python script (*.py)</source>
         <translation></translation>
     </message>
@@ -2544,14 +2578,22 @@
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1193"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1194"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>File &apos;%1&apos; doesn&apos;t exists.</source>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="876"/>
         <location filename="../src/mainwindow.cpp" line="880"/>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1193"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1194"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>File open</source>
         <translation></translation>
     </message>
@@ -2607,7 +2649,11 @@
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/mainwindow.cpp" line="1166"/>
+=======
+        <location filename="../src/mainwindow.cpp" line="1167"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Open File</source>
         <translation></translation>
     </message>
@@ -2861,6 +2907,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/postprocessorview.cpp" line="641"/>
         <source>Terminate on different material</source>
         <translation type="unfinished"></translation>
@@ -2932,6 +2979,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+=======
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/postprocessorview.cpp" line="691"/>
         <source>Initial particle position</source>
         <translation type="unfinished"></translation>
@@ -2947,11 +2996,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/postprocessorview.cpp" line="726"/>
         <source>Particles radius:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+=======
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/postprocessorview.cpp" line="477"/>
         <location filename="../src/postprocessorview.cpp" line="592"/>
         <source>Jet</source>
@@ -3096,6 +3148,85 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
+=======
+        <location filename="../src/postprocessorview.cpp" line="641"/>
+        <source>Terminate on different material</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="646"/>
+        <source>Line color is controlled by velocity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="647"/>
+        <source>Show points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="662"/>
+        <location filename="../src/postprocessorview.cpp" line="672"/>
+        <source>Equation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="664"/>
+        <source>Charge (C):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="667"/>
+        <source>Lorentz Force</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="674"/>
+        <source>Density (kg/m&lt;sup&gt;3&lt;/sup&gt;):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="676"/>
+        <source>Reference area (m&lt;sup&gt;2&lt;/sup&gt;):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="678"/>
+        <source>Coefficient (-):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="681"/>
+        <source>Drag force</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="711"/>
+        <source>Maximum relative error (%):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="713"/>
+        <source>Maximum steps:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="722"/>
+        <source>Equations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="726"/>
+        <source>Particles radius (m):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/postprocessorview.cpp" line="728"/>
+        <source>Mass (kg):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <location filename="../src/postprocessorview.cpp" line="745"/>
         <source>Workspace</source>
         <translation type="unfinished"></translation>
@@ -3729,6 +3860,7 @@
         <location filename="../src/pythonlab/pythoneditor.cpp" line="413"/>
         <source>Unindent</source>
         <translation type="unfinished"></translation>
+<<<<<<< HEAD
     </message>
     <message>
         <location filename="../src/pythonlab/pythoneditor.cpp" line="415"/>
@@ -4264,13 +4396,61 @@ Do you want to save your changes?</source>
         <location filename="../src/pythonlabagros.cpp" line="1049"/>
         <source>Physic field variable component &apos;%1&apos; is not implemented.</source>
         <translation></translation>
+=======
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="66"/>
-        <source>unnamed</source>
-        <translation></translation>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="415"/>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="417"/>
+        <source>Uncomment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="418"/>
+        <source>Ctrl+U</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="420"/>
+        <source>Goto line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="421"/>
+        <source>Alt+G</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="423"/>
+        <source>&amp;Run Python script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="424"/>
+        <source>Ctrl+R</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="426"/>
+        <source>Replace tabs with spaces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="429"/>
+        <source>&amp;Check Python script (PyLint)</source>
+        <translation type="unfinished"></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="431"/>
+        <source>Alt+C</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+<<<<<<< HEAD
         <location filename="../src/util.h" line="326"/>
         <source>Information</source>
         <translation></translation>
@@ -4307,6 +4487,536 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/util.h" line="733"/>
+        <source>Hcurl norm</source>
+        <translation></translation>
+=======
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="433"/>
+        <source>PyFlakes enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="438"/>
+        <source>PyLint enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="443"/>
+        <source>Print stacktrace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="448"/>
+        <source>User module deleter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="453"/>
+        <source>E&amp;xit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="454"/>
+        <source>Ctrl+Q</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="455"/>
+        <source>Exit editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="458"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="528"/>
+        <source>&amp;Help</source>
+        <translation type="unfinished"></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="462"/>
+        <source>&amp;Keyword List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="466"/>
+        <source>About &amp;PythonLab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="467"/>
+        <source>Show the application&apos;s About box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="471"/>
+        <source>About &amp;Qt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="472"/>
+        <source>Show the Qt library&apos;s About box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="479"/>
+        <source>&amp;Recent files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="481"/>
+        <source>&amp;File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="495"/>
+        <source>&amp;Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="515"/>
+        <source>&amp;Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="521"/>
+        <source>&amp;Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="538"/>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="548"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="561"/>
+        <source>Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="580"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="586"/>
+        <source>Working directory: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="597"/>
+        <source>Add new document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="641"/>
+        <source>File browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="664"/>
+        <source>Ready</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="797"/>
+        <source>Select directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="804"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="1023"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="1100"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="1121"/>
+        <source>Untitled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="817"/>
+        <source>Open File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="817"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="875"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="911"/>
+        <source>Python files (*.py)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="830"/>
+        <source>Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="830"/>
+        <source>Script is already opened.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="875"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="911"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="928"/>
+        <source>Save file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="897"/>
+        <source>File &apos;%1&apos; cannot be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="928"/>
+        <source>Html files (*.html)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="957"/>
+        <source>Print Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="1033"/>
+        <source>Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="1033"/>
+        <source>File &apos;%1&apos; has been modified.
+Do you want to save your changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="1106"/>
+        <source>Python Lab - %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="1114"/>
+        <source>Line: %1, Col: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PythonEditorWidget</name>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="138"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="183"/>
+        <source>Convention</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="141"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="188"/>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="145"/>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="193"/>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlab/pythoneditor.cpp" line="152"/>
+        <source>Could not read PyLint output.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PythonLabAgros</name>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1214"/>
+        <source>&amp;Create script from model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1215"/>
+        <source>Ctrl+M</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PythonScriptingConsoleView</name>
+    <message>
+        <location filename="../src/pythonlab/pythonconsole.cpp" line="682"/>
+        <source>Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PythonScriptingHistoryView</name>
+    <message>
+        <location filename="../src/pythonlab/pythonconsole.cpp" line="713"/>
+        <source>History</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <location filename="../src/problemdialog.cpp" line="466"/>
+        <location filename="../src/value.cpp" line="48"/>
+        <source>Error</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="278"/>
+        <source>Script input</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="290"/>
+        <source>Problem is not meshed.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="344"/>
+        <source>Problem type &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="351"/>
+        <source>Physic field &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="357"/>
+        <source>Number of refinements &apos;%1&apos; is out of range.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="363"/>
+        <source>Polynomial order &apos;%1&apos; is out of range.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="467"/>
+        <location filename="../src/pythonlabagros.cpp" line="504"/>
+        <location filename="../src/pythonlabagros.cpp" line="532"/>
+        <source>Index &apos;%1&apos; is out of range.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="488"/>
+        <source>Boundary &apos;%1&apos; is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="522"/>
+        <source>Material &apos;%1&apos; is not defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="556"/>
+        <source>Boundary marker already exists.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="651"/>
+        <source>Node index must be between 0 and &apos;%1&apos;.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="694"/>
+        <location filename="../src/pythonlabagros.cpp" line="951"/>
+        <source>Edge index must be between 0 and &apos;%1&apos;.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="737"/>
+        <location filename="../src/pythonlabagros.cpp" line="1001"/>
+        <source>Label index must be between 0 and &apos;%1&apos;.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="888"/>
+        <source>Postprocessor mode &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1042"/>
+        <source>Physic field variable &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1052"/>
+        <source>Physic field variable is scalar variable.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="374"/>
+        <source>Adaptivity step &apos;%1&apos; is out of range.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="380"/>
+        <source>Adaptivity tolerance &apos;%1&apos; is out of range.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="388"/>
+        <source>The frequency can not be used for this problem.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="394"/>
+        <location filename="../src/pythonlabagros.cpp" line="399"/>
+        <source>Analysis type &apos;%1&apos; is not implemented</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="405"/>
+        <source>Time step must be positive.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="411"/>
+        <source>Total time must be positive.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="484"/>
+        <source>Angle &apos;%1&apos; is out of range.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_acoustic.cpp" line="517"/>
+        <location filename="../src/hermes2d/hermes_current.cpp" line="182"/>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="189"/>
+        <location filename="../src/hermes2d/hermes_general.cpp" line="190"/>
+        <location filename="../src/hermes2d/hermes_heat.cpp" line="251"/>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="335"/>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="590"/>
+        <source>Boundary type &apos;%1&apos; is not supported.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_acoustic.cpp" line="523"/>
+        <location filename="../src/hermes2d/hermes_current.cpp" line="188"/>
+        <location filename="../src/hermes2d/hermes_elasticity.cpp" line="399"/>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="195"/>
+        <location filename="../src/hermes2d/hermes_general.cpp" line="196"/>
+        <location filename="../src/hermes2d/hermes_heat.cpp" line="268"/>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="341"/>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="605"/>
+        <source>Boundary marker with name &apos;%1&apos; doesn&apos;t exists.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="585"/>
+        <source>Label marker already exists.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_acoustic.cpp" line="569"/>
+        <location filename="../src/hermes2d/hermes_current.cpp" line="229"/>
+        <location filename="../src/hermes2d/hermes_elasticity.cpp" line="460"/>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="241"/>
+        <location filename="../src/hermes2d/hermes_general.cpp" line="242"/>
+        <location filename="../src/hermes2d/hermes_heat.cpp" line="320"/>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="408"/>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="660"/>
+        <source>Label marker with name &apos;%1&apos; doesn&apos;t exists.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="866"/>
+        <source>Mode &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1143"/>
+        <source>Time step must be between 0 and %1.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="300"/>
+        <location filename="../src/pythonlabagros.cpp" line="315"/>
+        <location filename="../src/pythonlabagros.cpp" line="864"/>
+        <location filename="../src/pythonlabagros.cpp" line="879"/>
+        <location filename="../src/pythonlabagros.cpp" line="922"/>
+        <location filename="../src/pythonlabagros.cpp" line="972"/>
+        <location filename="../src/pythonlabagros.cpp" line="1022"/>
+        <location filename="../src/pythonlabagros.cpp" line="1137"/>
+        <source>Problem is not solved.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="270"/>
+        <source>Script message</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="368"/>
+        <source>Adaptivity type &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1037"/>
+        <source>View type &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1044"/>
+        <source>Physic field variable &apos;%1&apos; cannot be used with this field.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1140"/>
+        <source>Solved problem is not transient.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/pythonlabagros.cpp" line="1049"/>
+        <source>Physic field variable component &apos;%1&apos; is not implemented.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scene.cpp" line="66"/>
+        <source>unnamed</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="330"/>
+        <source>Information</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="333"/>
+        <source>Warning</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="336"/>
+        <source>Critical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="729"/>
+        <source>H1 norm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="731"/>
+        <source>L2 norm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="733"/>
+        <source>H1 seminorm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="735"/>
+        <source>Hdiv norm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/util.h" line="737"/>
         <source>Hcurl norm</source>
         <translation></translation>
     </message>
@@ -5141,6 +5851,11 @@ Do you want to save your changes?</source>
         <source>E_im</source>
         <translation type="unfinished"></translation>
     </message>
+<<<<<<< HEAD
+</context>
+<context>
+    <name>ReportDialog</name>
+=======
     <message>
         <location filename="../src/util.cpp" line="640"/>
         <source>J_re</source>
@@ -5151,6 +5866,7 @@ Do you want to save your changes?</source>
         <source>J_im</source>
         <translation type="unfinished"></translation>
     </message>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
     <message>
         <location filename="../src/util.cpp" line="698"/>
         <location filename="../src/util.cpp" line="700"/>
@@ -5705,6 +6421,21 @@ Do you want to save your changes?</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_current.cpp" line="708"/>
+        <source>BC type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_current.cpp" line="752"/>
+        <source>&lt;i&gt;%1&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt; (V)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_current.cpp" line="759"/>
+        <source>&lt;i&gt;J&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt; (A/m&lt;sup&gt;2&lt;/sup&gt;)</source>
+        <translation type="unfinished"></translation>
+=======
         <location filename="../src/reportdialog.cpp" line="570"/>
         <source>ContourView: </source>
         <translation type="unfinished"></translation>
@@ -5718,6 +6449,7 @@ Do you want to save your changes?</source>
         <location filename="../src/reportdialog.cpp" line="663"/>
         <source>Start node</source>
         <translation></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
     </message>
     <message>
         <location filename="../src/reportdialog.cpp" line="664"/>
@@ -5781,6 +6513,21 @@ Do you want to save your changes?</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="735"/>
+        <source>BC type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="779"/>
+        <source>&lt;i&gt;%1&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt; (V)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="786"/>
+        <source>&lt;i&gt;%1&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt; (C/m&lt;sup&gt;2&lt;/sup&gt;)</source>
+        <translation type="unfinished"></translation>
+=======
         <location filename="../src/reportdialog.cpp" line="285"/>
         <location filename="../src/reportdialog.cpp" line="287"/>
         <source>Error</source>
@@ -5795,6 +6542,7 @@ Do you want to save your changes?</source>
         <location filename="../src/reportdialog.cpp" line="287"/>
         <source>Template style could not be copied.</source>
         <translation></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
     </message>
 </context>
 <context>
@@ -5912,54 +6660,85 @@ Do you want to save your changes?</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="678"/>
+        <location filename="../src/scene.cpp" line="749"/>
         <source>unnamed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="748"/>
+        <location filename="../src/scene.cpp" line="819"/>
         <source>Delete selected</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="754"/>
+        <location filename="../src/scene.cpp" line="825"/>
         <source>Remove node</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="823"/>
+        <location filename="../src/scene.cpp" line="894"/>
         <source>Translation</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="890"/>
+        <location filename="../src/scene.cpp" line="971"/>
         <source>Rotation</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="951"/>
+        <location filename="../src/scene.cpp" line="1040"/>
         <source>Scale</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="1319"/>
+        <location filename="../src/scene.cpp" line="1416"/>
         <source>File &apos;%1&apos; cannot be opened (%2).</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="1349"/>
+        <location filename="../src/scene.cpp" line="1446"/>
         <source>For opening file &apos;%1&apos; is required Agros2D version 2.0 or higher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="1725"/>
+        <location filename="../src/scene.cpp" line="1821"/>
         <source>File &apos;%1&apos; cannot be saved (%2).</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/scene.cpp" line="1335"/>
+        <location filename="../src/scene.cpp" line="1893"/>
+        <source>There are crossings in the geometry (highlited). Remove the crossings first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1066"/>
+        <source>BC type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1118"/>
+        <source>&lt;i&gt;A&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt; (Wb/m)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1126"/>
+        <source>&lt;i&gt;K&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt; (A/m)</source>
+        <translation type="unfinished"></translation>
+=======
+        <location filename="../src/scene.cpp" line="1901"/>
+        <source>There are nodes which are not connected to any edge (red). All nodes should be connected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/scene.cpp" line="1906"/>
+        <source>There are nodes which lie on the edge but they are not connected to the edge. Remove these nodes first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/scene.cpp" line="1432"/>
         <source>File &apos;%1&apos; is not valid Agros2D file.</source>
         <translation></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
     </message>
 </context>
 <context>
@@ -6207,6 +6986,15 @@ Do you want to save your changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_current.cpp" line="786"/>
+        <source>&lt;i&gt;%1&lt;/i&gt; (S/m)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_current.cpp" line="787"/>
+        <source>Conductivity</source>
+=======
         <location filename="../src/hermes2d/hermes_rf.cpp" line="1714"/>
         <source>&lt;i&gt;%1&lt;/i&gt; (Â°):</source>
         <translation type="unfinished"></translation>
@@ -6214,6 +7002,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/hermes2d/hermes_rf.cpp" line="1715"/>
         <source>Phase</source>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6233,47 +7022,47 @@ Do you want to save your changes?</source>
 <context>
     <name>SceneEdgeDialog</name>
     <message>
-        <location filename="../src/scenebasic.cpp" line="358"/>
+        <location filename="../src/scenebasic.cpp" line="363"/>
         <source>Edge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="392"/>
+        <location filename="../src/scenebasic.cpp" line="397"/>
         <source>Start point:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="393"/>
+        <location filename="../src/scenebasic.cpp" line="398"/>
         <source>End point:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="394"/>
+        <location filename="../src/scenebasic.cpp" line="399"/>
         <source>Angle (deg.):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="396"/>
+        <location filename="../src/scenebasic.cpp" line="401"/>
         <source>Coordinates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="415"/>
+        <location filename="../src/scenebasic.cpp" line="420"/>
         <source>Refine towards edge:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="417"/>
+        <location filename="../src/scenebasic.cpp" line="422"/>
         <source>Mesh parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="422"/>
+        <location filename="../src/scenebasic.cpp" line="427"/>
         <source>Boundary condition:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="425"/>
+        <location filename="../src/scenebasic.cpp" line="430"/>
         <source>Length:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6330,6 +7119,26 @@ Do you want to save your changes?</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="815"/>
+        <source>&lt;i&gt;%1&lt;/i&gt;&lt;sub&gt;r&lt;/sub&gt; (-)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="816"/>
+        <source>Permittivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="818"/>
+        <source>&lt;i&gt;%1&lt;/i&gt; (C/m&lt;sup&gt;3&lt;/sup&gt;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_electrostatic.cpp" line="819"/>
+        <source>Charge density</source>
+        <translation type="unfinished"></translation>
+=======
         <location filename="../src/sceneinfoview.cpp" line="115"/>
         <source>Solver</source>
         <translation></translation>
@@ -6348,6 +7157,7 @@ Do you want to save your changes?</source>
         <location filename="../src/sceneinfoview.cpp" line="133"/>
         <source>Geometry</source>
         <translation></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
     </message>
     <message>
         <location filename="../src/sceneinfoview.cpp" line="138"/>
@@ -6412,6 +7222,37 @@ Do you want to save your changes?</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1179"/>
+        <source>&lt;i&gt;B&lt;/i&gt;&lt;sub&gt;r&lt;/sub&gt; (T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1180"/>
+        <source>Rem. flux dens.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1182"/>
+        <source>&lt;i&gt;%1&lt;/i&gt; (deg.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1183"/>
+        <source>Direction of rem.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1186"/>
+        <source>Permanent magnet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1191"/>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1194"/>
+        <source>&lt;i&gt;v&lt;/i&gt;&lt;sub&gt;%1&lt;/sub&gt; (m/s)</source>
+        <translation type="unfinished"></translation>
+=======
         <location filename="../src/sceneinfoview.cpp" line="212"/>
         <source>Solved mesh</source>
         <translation></translation>
@@ -6440,42 +7281,69 @@ Do you want to save your changes?</source>
         <location filename="../src/sceneinfoview.cpp" line="231"/>
         <source>Steps: </source>
         <translation></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
     </message>
 </context>
 <context>
     <name>SceneLabelDialog</name>
     <message>
-        <location filename="../src/scenebasic.cpp" line="582"/>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1192"/>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1195"/>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1201"/>
+        <source>Velocity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1197"/>
+        <source>&lt;i&gt;%1&lt;/i&gt; (rad/s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1198"/>
+        <source>Velocity angular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1204"/>
+        <source>&lt;i&gt;%1&lt;/i&gt;&lt;sub&gt;r&lt;/sub&gt; (-)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1205"/>
+        <source>Permeability</source>
+=======
+        <location filename="../src/scenebasic.cpp" line="589"/>
         <source>Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="621"/>
+        <location filename="../src/scenebasic.cpp" line="628"/>
         <source>Coordinates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="636"/>
+        <location filename="../src/scenebasic.cpp" line="643"/>
         <source>Global order is %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="648"/>
+        <location filename="../src/scenebasic.cpp" line="655"/>
         <source>Triangle area (m):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="649"/>
+        <location filename="../src/scenebasic.cpp" line="656"/>
         <source>Polynomial order (-):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="651"/>
+        <location filename="../src/scenebasic.cpp" line="658"/>
         <source>Mesh parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/scenebasic.cpp" line="655"/>
+        <location filename="../src/scenebasic.cpp" line="662"/>
         <source>Material:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6518,17 +7386,36 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/hermes2d/hermes_acoustic.cpp" line="1312"/>
         <source>Speed of sound</source>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SceneMaterialCurrentDialog</name>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1207"/>
+=======
         <location filename="../src/hermes2d/hermes_current.cpp" line="786"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;i&gt;%1&lt;/i&gt; (S/m)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1208"/>
+        <source>Conductivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1210"/>
+        <source>&lt;i&gt;J&lt;/i&gt;&lt;sub&gt;ext&lt;/sub&gt; (A/m&lt;sup&gt;2&lt;/sup&gt;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1211"/>
+        <source>Current density</source>
+=======
         <location filename="../src/hermes2d/hermes_current.cpp" line="787"/>
         <source>Conductivity</source>
         <translation type="unfinished"></translation>
@@ -6784,9 +7671,48 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1204"/>
         <source>&lt;i&gt;%1&lt;/i&gt;&lt;sub&gt;r&lt;/sub&gt; (-)</source>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SceneMaterialRFDialog</name>
+    <message>
+<<<<<<< HEAD
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1754"/>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1757"/>
+        <source>&lt;i&gt;%1&lt;/i&gt;&lt;sub&gt;r&lt;/sub&gt; (-)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1755"/>
+        <source>Permittivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1758"/>
+        <source>Permeability</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1760"/>
+        <source>&lt;i&gt;%1&lt;/i&gt; (S/m)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1761"/>
+        <source>Conductivity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1764"/>
+        <source>&lt;i&gt;J&lt;/i&gt;&lt;sub&gt;ext&lt;/sub&gt; (A/m&lt;sup&gt;2&lt;/sup&gt;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/hermes2d/hermes_rf.cpp" line="1765"/>
+        <source>Current density</source>
+=======
         <location filename="../src/hermes2d/hermes_magnetic.cpp" line="1205"/>
         <source>Permeability</source>
         <translation type="unfinished"></translation>
@@ -6823,9 +7749,22 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/hermes2d/hermes_rf.cpp" line="1755"/>
         <source>Permittivity</source>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SceneMaterialSelectDialog</name>
+    <message>
+<<<<<<< HEAD
+        <location filename="../src/scenemarker.cpp" line="406"/>
+        <source>Material</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../src/scenemarker.cpp" line="444"/>
+        <source>Material:</source>
+=======
         <location filename="../src/hermes2d/hermes_rf.cpp" line="1758"/>
         <source>Permeability</source>
         <translation type="unfinished"></translation>
@@ -6833,9 +7772,33 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/hermes2d/hermes_rf.cpp" line="1760"/>
         <source>&lt;i&gt;%1&lt;/i&gt; (S/m)</source>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>SceneTransformDialog</name>
     <message>
+<<<<<<< HEAD
+        <location filename="../src/scenetransformdialog.cpp" line="30"/>
+        <source>Transform</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scenetransformdialog.cpp" line="66"/>
+        <source>Angle:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scenetransformdialog.cpp" line="82"/>
+        <source>Scaling factor:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scenetransformdialog.cpp" line="89"/>
+        <source>Copy objects</source>
+        <translation></translation>
+=======
         <location filename="../src/hermes2d/hermes_rf.cpp" line="1761"/>
         <source>Conductivity</source>
         <translation type="unfinished"></translation>
@@ -6862,31 +7825,13 @@ Do you want to save your changes?</source>
         <location filename="../src/scenemarker.cpp" line="444"/>
         <source>Material:</source>
         <translation type="unfinished"></translation>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
     </message>
 </context>
 <context>
     <name>SceneTransformDialog</name>
     <message>
-        <location filename="../src/scenetransformdialog.cpp" line="30"/>
-        <source>Transform</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/scenetransformdialog.cpp" line="66"/>
-        <source>Angle:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/scenetransformdialog.cpp" line="82"/>
-        <source>Scaling factor:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/scenetransformdialog.cpp" line="89"/>
-        <source>Copy objects</source>
-        <translation></translation>
-    </message>
-    <message>
+<<<<<<< HEAD
         <location filename="../src/scenetransformdialog.cpp" line="98"/>
         <source>Translate</source>
         <translation></translation>
@@ -6899,12 +7844,27 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/scenetransformdialog.cpp" line="100"/>
         <source>Scale</source>
+=======
+        <location filename="../src/scenetransformdialog.cpp" line="30"/>
+        <source>Transform</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scenetransformdialog.cpp" line="66"/>
+        <source>Angle:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scenetransformdialog.cpp" line="82"/>
+        <source>Scaling factor:</source>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <translation></translation>
     </message>
 </context>
 <context>
     <name>SceneView</name>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="164"/>
         <source>Best fit</source>
         <translation></translation>
@@ -6924,9 +7884,32 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/sceneview.cpp" line="162"/>
         <source>Zoom best fit</source>
+=======
+        <location filename="../src/scenetransformdialog.cpp" line="89"/>
+        <source>Copy objects</source>
         <translation></translation>
     </message>
     <message>
+        <location filename="../src/scenetransformdialog.cpp" line="98"/>
+        <source>Translate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scenetransformdialog.cpp" line="99"/>
+        <source>Rotate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/scenetransformdialog.cpp" line="100"/>
+        <source>Scale</source>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>SceneView</name>
+    <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="163"/>
         <source>Ctrl+0</source>
         <translation type="unfinished"></translation>
@@ -7065,49 +8048,246 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="3393"/>
+=======
+        <location filename="../src/sceneview.cpp" line="164"/>
+        <source>Best fit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="152"/>
+        <location filename="../src/sceneview.cpp" line="154"/>
+        <source>Zoom in</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="157"/>
+        <location filename="../src/sceneview.cpp" line="159"/>
+        <source>Zoom out</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="162"/>
+        <source>Zoom best fit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="163"/>
+        <source>Ctrl+0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="167"/>
+        <location filename="../src/sceneview.cpp" line="168"/>
+        <source>Zoom region</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="172"/>
+        <location filename="../src/sceneview.cpp" line="173"/>
+        <source>Show grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="178"/>
+        <location filename="../src/sceneview.cpp" line="179"/>
+        <source>Snap to grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="184"/>
+        <location filename="../src/sceneview.cpp" line="185"/>
+        <source>Show rulers</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="191"/>
+        <source>Operate on &amp;nodes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="193"/>
+        <location filename="../src/sceneview.cpp" line="3391"/>
+        <source>Operate on nodes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="196"/>
+        <source>Operate on &amp;edges</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="198"/>
+        <location filename="../src/sceneview.cpp" line="3394"/>
+        <source>Operate on edges</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="201"/>
+        <source>Operate on &amp;labels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="206"/>
+        <source>&amp;Postprocessor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="208"/>
+        <location filename="../src/sceneview.cpp" line="3416"/>
+        <source>Postprocessor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="219"/>
+        <location filename="../src/sceneview.cpp" line="223"/>
+        <location filename="../src/sceneview.cpp" line="227"/>
+        <source>Projection to %1%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="220"/>
+        <location filename="../src/sceneview.cpp" line="224"/>
+        <location filename="../src/sceneview.cpp" line="228"/>
+        <source>Projection to %1%2 plane.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="240"/>
+        <source>Solution mesh</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="243"/>
+        <source>Contours</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="249"/>
+        <source>Particle tracing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="261"/>
+        <source>Local Values</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="264"/>
+        <source>Surface Integrals</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="267"/>
+        <source>Volume Integrals</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="277"/>
+        <source>Object properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="282"/>
+        <source>&amp;Select region</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="286"/>
+        <location filename="../src/sceneview.cpp" line="287"/>
+        <source>Select by marker</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="988"/>
+        <source>%1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="3368"/>
+        <source>Vel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/sceneview.cpp" line="3410"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Model</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3396"/>
+=======
+        <location filename="../src/sceneview.cpp" line="3413"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Polynomial order</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3676"/>
         <location filename="../src/sceneview.cpp" line="3716"/>
+=======
+        <location filename="../src/sceneview.cpp" line="3722"/>
+        <location filename="../src/sceneview.cpp" line="3762"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Undefined: %1.</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4074"/>
         <location filename="../src/sceneview.cpp" line="4123"/>
+=======
+        <location filename="../src/sceneview.cpp" line="4120"/>
+        <location filename="../src/sceneview.cpp" line="4170"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Node</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4074"/>
         <location filename="../src/sceneview.cpp" line="4123"/>
+=======
+        <location filename="../src/sceneview.cpp" line="4120"/>
+        <location filename="../src/sceneview.cpp" line="4170"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Radial component must be greater then or equal to zero.</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4376"/>
+=======
+        <location filename="../src/sceneview.cpp" line="4423"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Node&lt;/h3&gt;Point: [%1; %2]&lt;br/&gt;Index: %3</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4391"/>
+=======
+        <location filename="../src/sceneview.cpp" line="4438"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Edge&lt;/h3&gt;Point: [%1; %2] - [%3; %4]&lt;br/&gt;Boundary Condition: %5&lt;br/&gt;Angle: %6 deg.&lt;br/&gt;Index: %7 %8</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="4411"/>
+=======
+        <location filename="../src/sceneview.cpp" line="4458"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>&lt;h3&gt;Label&lt;/h3&gt;Point: [%1; %2]&lt;br/&gt;Material: %3&lt;br/&gt;Triangle area: %4 m&lt;sup&gt;2&lt;/sup&gt;&lt;br/&gt;Polynomial order: %5&lt;br/&gt;Index: %6 %7</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="5338"/>
+=======
+        <location filename="../src/sceneview.cpp" line="5385"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Image cannot be saved to the file &apos;%1&apos;.</source>
         <translation></translation>
     </message>
@@ -7123,7 +8303,11 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <location filename="../src/sceneview.cpp" line="203"/>
+<<<<<<< HEAD
         <location filename="../src/sceneview.cpp" line="3380"/>
+=======
+        <location filename="../src/sceneview.cpp" line="3397"/>
+>>>>>>> 19ad1145241186778fc257a8a9b0dd36d6c0fcbc
         <source>Operate on labels</source>
         <translation></translation>
     </message>

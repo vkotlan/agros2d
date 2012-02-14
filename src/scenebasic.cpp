@@ -47,8 +47,9 @@ SceneNode::SceneNode(const Point &point) : SceneBasic()
 {
     logMessage("SceneNode::SceneNode()");
 
-    this->point = point;
+    this->point = point;    
 }
+
 double SceneNode::distance(const Point &point) const
 {
     logMessage("SceneNode::distance()");
@@ -70,9 +71,8 @@ SceneEdge::SceneEdge(SceneNode *nodeStart, SceneNode *nodeEnd, SceneBoundary *ma
     : SceneBasic()
 {
     logMessage("SceneEdge::SceneEdge()");
-
-    this->nodeStart = nodeStart;
-    this->nodeEnd = nodeEnd;
+    this->nodeStart = nodeStart;    
+    this->nodeEnd = nodeEnd;    
     this->boundary = marker;
     this->angle = angle;
     this->refineTowardsEdge = refineTowardsEdge;
@@ -380,7 +380,7 @@ QLayout* SceneEdgeDialog::createContent()
     connect(btnBoundary, SIGNAL(clicked()), this, SLOT(doBoundaryClicked()));
     txtAngle = new ValueLineEdit();
     txtAngle->setMinimum(0.0);
-    txtAngle->setMaximum(180.0);
+    txtAngle->setMaximum(90.0);
     connect(txtAngle, SIGNAL(evaluated(bool)), this, SLOT(evaluated(bool)));
     txtRefineTowardsEdge = new QSpinBox(this);
     txtRefineTowardsEdge->setMinimum(0);
@@ -490,6 +490,7 @@ bool SceneEdgeDialog::save()
 
     // check if edge doesn't exists
     SceneEdge *edgeCheck = Util::scene()->getEdge(nodeStart->point, nodeEnd->point, txtAngle->number());
+
     if ((edgeCheck) && ((sceneEdge != edgeCheck) || isNew))
     {
         QMessageBox::warning(this, "Edge", "Edge already exists.");
@@ -514,9 +515,10 @@ bool SceneEdgeDialog::save()
 
     sceneEdge->nodeStart = nodeStart;
     sceneEdge->nodeEnd = nodeEnd;
-    sceneEdge->boundary = cmbBoundary->itemData(cmbBoundary->currentIndex()).value<SceneBoundary *>();
     sceneEdge->angle = txtAngle->number();
+    sceneEdge->boundary = cmbBoundary->itemData(cmbBoundary->currentIndex()).value<SceneBoundary *>();
     sceneEdge->refineTowardsEdge = chkRefineTowardsEdge->isChecked() ? txtRefineTowardsEdge->value() : 0;
+    Util::scene()->checkEdge(sceneEdge);
 
     return true;
 }
