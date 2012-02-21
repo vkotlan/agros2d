@@ -3006,42 +3006,42 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="344"/>
         <source>2D: None</source>
-        <translation type="unfinished"></translation>
+        <translation>2D: Nichts</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="345"/>
         <source>Ctrl+1</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+1</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="348"/>
         <source>2D: Polynomial order</source>
-        <translation type="unfinished"></translation>
+        <translation>2D: Zehnerpotenz des Polynoms</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="349"/>
         <source>Ctrl+2</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+2</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="352"/>
         <source>2D: Scalar view</source>
-        <translation type="unfinished"></translation>
+        <translation>2D: Skalare Darstellung</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="353"/>
         <source>Ctrl+3</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+3</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="356"/>
         <source>3D: Scalar view</source>
-        <translation type="unfinished"></translation>
+        <translation>3D: Skalare Darstellung</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="357"/>
         <source>Ctrl+4</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+4</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="360"/>
@@ -3051,7 +3051,7 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="361"/>
         <source>Ctrl+5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="364"/>
@@ -3061,7 +3061,7 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="365"/>
         <source>Ctrl+6</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="373"/>
