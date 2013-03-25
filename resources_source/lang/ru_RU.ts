@@ -3136,7 +3136,7 @@ step</source>
         <location filename="../../pythonlab-library/pythonlab/pythoneditor.cpp" line="665"/>
         <source>Run script: %1
 </source>
-        <translation type="unfinished">Выполнить скрипт: %</translation>
+        <translation>Выполнить скрипт: %1</translation>
     </message>
     <message>
         <location filename="../../pythonlab-library/pythonlab/pythoneditor.cpp" line="780"/>
